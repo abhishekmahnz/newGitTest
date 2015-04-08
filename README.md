@@ -1,1 +1,3 @@
 # newGitTest
+
+Just practicing github
